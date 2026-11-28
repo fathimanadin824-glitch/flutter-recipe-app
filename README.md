@@ -19,16 +19,6 @@ A Flutter-based mobile application designed to help users explore and discover d
 | SharedPreferences | Local key-value storage |
 | Material Design | UI design |
 
-## 📱 Screenshots
-
-Add your actual application screenshots here.
-
-```text
-screenshots/
-├── home_screen.png
-├── recipe_list.png
-└── recipe_details.png
-```
 
 ## 📂 Project Structure
 
